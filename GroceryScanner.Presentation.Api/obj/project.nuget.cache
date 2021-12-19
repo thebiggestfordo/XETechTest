@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XKvTD69D6mKDJL/+EDaI+nQxVljUj/cWCh9m7MhRPq0CFR//Z8Y0W/RbK787sS9vvzgdXBdPVV6CPVGwJdgt7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\source\\repos\\GroceryScanner\\GroceryScanner.Presentation.Api\\GroceryScanner.Presentation.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

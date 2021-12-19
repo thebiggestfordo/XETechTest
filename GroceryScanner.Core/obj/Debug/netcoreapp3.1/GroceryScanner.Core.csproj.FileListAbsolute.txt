@@ -1,0 +1,9 @@
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\bin\Debug\netcoreapp3.1\GroceryScanner.Core.deps.json
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\bin\Debug\netcoreapp3.1\GroceryScanner.Core.dll
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\bin\Debug\netcoreapp3.1\GroceryScanner.Core.pdb
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\obj\Debug\netcoreapp3.1\GroceryScanner.Core.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\obj\Debug\netcoreapp3.1\GroceryScanner.Core.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\obj\Debug\netcoreapp3.1\GroceryScanner.Core.AssemblyInfo.cs
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\obj\Debug\netcoreapp3.1\GroceryScanner.Core.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\obj\Debug\netcoreapp3.1\GroceryScanner.Core.dll
+C:\Users\micha\source\repos\GroceryScanner\GroceryScanner.Core\obj\Debug\netcoreapp3.1\GroceryScanner.Core.pdb

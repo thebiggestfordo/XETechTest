@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="1. Domain\" />
+    <Folder Include="2. Infrastructure\" />
+    <Folder Include="3. Services\" />
+    <Folder Include="4. Presentation\" />
+  </ItemGroup>
+
+</Project>
